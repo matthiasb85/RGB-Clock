@@ -139,8 +139,9 @@
 <wire x1="0" y1="81.27" x2="0" y2="0" width="0" layer="20"/>
 <rectangle x1="6.985" y1="53.34" x2="29.845" y2="67.31" layer="51"/>
 <rectangle x1="53.975" y1="59.69" x2="67.945" y2="76.2" layer="51"/>
-<text x="11.43" y="77.47" size="1.27" layer="51" font="vector" ratio="16" distance="26">RGB Clock v0.1
+<text x="9.2075" y="73.9775" size="1.4224" layer="51" font="vector" ratio="16" distance="26">RGB Clock v0.1
 M.B. 11.2014</text>
+<text x="9.2075" y="72.0725" size="0.6096" layer="51" font="vector" ratio="16" distance="26">https://github.com/matthiasb85/RGB-Clock</text>
 </plain>
 <libraries>
 <library name="rcl">
@@ -7391,7 +7392,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <element name="L2" library="rcl" package="SD53-XXX-R" value="10µ" x="71.12" y="29.845" rot="R270">
 <attribute name="DIGIKEY-PN" value="513-1457-1-ND" x="36.83" y="59.69" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="GOLD_ORB_SM1" library="bfl" package="OSHW1" value="OSHWLOGO_GOLD_ORB_MED" x="12.3825" y="65.7225"/>
+<element name="GOLD_ORB_SM1" library="bfl" package="OSHW1" value="OSHWLOGO_GOLD_ORB_MED" x="1.5875" y="7.3025"/>
 <element name="JP6" library="pinhead" package="1X14/90" value="" x="80.645" y="53.34" rot="R270"/>
 <element name="JP1" library="pinhead" package="1X03/90" value="" x="40.64" y="80.645"/>
 <element name="R26" library="rcl" package="R0603" value="10k" x="7.9375" y="69.215" rot="R180"/>
