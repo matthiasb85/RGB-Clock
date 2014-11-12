@@ -15,7 +15,7 @@ The following features are implemented (1-3) or will be implemented later (4-7)
 
 5.) IR RC5 receiver integration
 
-6.) LDR integrationi
+6.) Ambient dependent lighting with LDR
 
 7.) MicroSD Card as storage device
 
