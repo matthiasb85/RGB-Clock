@@ -33331,7 +33331,6 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <wire x1="175.26" y1="370.84" x2="175.26" y2="373.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="370.84" x2="226.06" y2="370.84" width="0.1524" layer="91"/>
 <pinref part="GND29" gate="1" pin="GND"/>
 <pinref part="JP5" gate="A" pin="1"/>
 <wire x1="226.06" y1="370.84" x2="215.9" y2="370.84" width="0.1524" layer="91"/>
@@ -33476,7 +33475,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <label x="101.6" y="261.62" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="403.86" x2="215.9" y2="403.86" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="403.86" x2="215.9" y2="403.86" width="0.1524" layer="91"/>
 <label x="220.98" y="403.86" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="14"/>
 </segment>
@@ -33526,7 +33525,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <wire x1="177.8" y1="398.78" x2="175.26" y2="398.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="398.78" x2="215.9" y2="398.78" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="398.78" x2="215.9" y2="398.78" width="0.1524" layer="91"/>
 <label x="220.98" y="398.78" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="12"/>
 </segment>
@@ -33577,7 +33576,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PB9/TIM4_CH4"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="378.46" x2="215.9" y2="378.46" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="378.46" x2="215.9" y2="378.46" width="0.1524" layer="91"/>
 <label x="220.98" y="378.46" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="4"/>
 </segment>
@@ -33662,7 +33661,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PA12/USART1_RTS/CAN_TX/TIM1_ETR/USBDP"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="383.54" x2="215.9" y2="383.54" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="383.54" x2="215.9" y2="383.54" width="0.1524" layer="91"/>
 <label x="220.98" y="383.54" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="6"/>
 </segment>
@@ -33708,7 +33707,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PB2/BOOT1"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="381" x2="215.9" y2="381" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="381" x2="215.9" y2="381" width="0.1524" layer="91"/>
 <label x="220.98" y="381" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="5"/>
 </segment>
@@ -33732,7 +33731,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PA5/SPI1_SCK/ADC12_IN5"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="396.24" x2="215.9" y2="396.24" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="396.24" x2="215.9" y2="396.24" width="0.1524" layer="91"/>
 <label x="220.98" y="396.24" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="11"/>
 </segment>
@@ -33883,7 +33882,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PA11/USART1_CTS/CAN_RX/TIM1_CH4/USBDM"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="386.08" x2="215.9" y2="386.08" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="386.08" x2="215.9" y2="386.08" width="0.1524" layer="91"/>
 <label x="220.98" y="386.08" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="7"/>
 </segment>
@@ -33895,7 +33894,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PA10/USART1_RX/TIM1_CH3"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="388.62" x2="215.9" y2="388.62" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="388.62" x2="215.9" y2="388.62" width="0.1524" layer="91"/>
 <label x="220.98" y="388.62" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="8"/>
 </segment>
@@ -33907,7 +33906,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PA9/USART1_TX/TIM1_CH2"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="391.16" x2="215.9" y2="391.16" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="391.16" x2="215.9" y2="391.16" width="0.1524" layer="91"/>
 <label x="220.98" y="391.16" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="9"/>
 </segment>
@@ -33919,7 +33918,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PA8/USART1_CK/TIM1_CH1/MCO"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="393.7" x2="215.9" y2="393.7" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="393.7" x2="215.9" y2="393.7" width="0.1524" layer="91"/>
 <label x="220.98" y="393.7" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="10"/>
 </segment>
@@ -33975,7 +33974,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="UC1" gate="G$1" pin="PB12/SPI2_NSS/I2C2_SMBA/USART3_CK/TIM1_BKIN"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="375.92" x2="215.9" y2="375.92" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="375.92" x2="215.9" y2="375.92" width="0.1524" layer="91"/>
 <label x="220.98" y="375.92" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="3"/>
 </segment>
@@ -34019,7 +34018,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <label x="35.56" y="436.88" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="373.38" x2="215.9" y2="373.38" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="373.38" x2="215.9" y2="373.38" width="0.1524" layer="91"/>
 <label x="220.98" y="373.38" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="2"/>
 </segment>
@@ -34227,7 +34226,7 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <pinref part="+3V11" gate="G$1" pin="+3V3"/>
 </segment>
 <segment>
-<wire x1="233.68" y1="401.32" x2="215.9" y2="401.32" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="401.32" x2="215.9" y2="401.32" width="0.1524" layer="91"/>
 <label x="220.98" y="401.32" size="1.778" layer="95"/>
 <pinref part="JP5" gate="A" pin="13"/>
 </segment>
@@ -34543,6 +34542,9 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 </sheet>
 </sheets>
 <errors>
+<approved hash="102,1,-45.72,411.48,VOUT,+3V3/ANALOG,,,,"/>
+<approved hash="102,1,-45.72,431.8,VOUT,+3V3,,,,"/>
+<approved hash="104,1,-76.2,411.48,IC3,VIN,+5V5,,,"/>
 <approved hash="104,1,81.28,378.46,UC1,VSS_1,GND,,,"/>
 <approved hash="104,1,83.82,378.46,UC1,VSS_2,GND,,,"/>
 <approved hash="104,1,81.28,454.66,UC1,VDD_1,+3V3,,,"/>
@@ -34550,10 +34552,25 @@ Source: http://www.vishay.com/docs/82042/82042.pdf</description>
 <approved hash="104,1,83.82,454.66,UC1,VDD_2,+3V3,,,"/>
 <approved hash="104,1,86.36,378.46,UC1,VSS_3,GND,,,"/>
 <approved hash="104,1,86.36,454.66,UC1,VDD_3,+3V3,,,"/>
+<approved hash="104,1,76.2,378.46,UC1,VSS_A,GND,,,"/>
 <approved hash="104,1,68.58,261.62,IR1,VS,N$10,,,"/>
+<approved hash="104,1,-76.2,431.8,IC2,VIN,+5V5,,,"/>
 <approved hash="106,1,43.18,439.42,VBAT,,,,,"/>
-<approved hash="113,1,-40.8771,266.569,JP3,,,,,"/>
-<approved hash="113,1,226.06,459.545,SV1,,,,,"/>
+<approved hash="111,1,-47.625,388.62,WS_SUPPLY,,,,,"/>
+<approved hash="111,1,-59.055,388.62,+5V5,,,,,"/>
+<approved hash="111,1,-48.895,388.62,WS_SUPPLY,,,,,"/>
+<approved hash="111,1,-50.165,388.62,WS_SUPPLY,,,,,"/>
+<approved hash="111,1,-47.625,388.62,WS_SUPPLY,,,,,"/>
+<approved hash="111,1,-57.785,388.62,+5V5,,,,,"/>
+<approved hash="111,1,-60.325,388.62,+5V5,,,,,"/>
+<approved hash="113,1,208.517,337.951,JP4,,,,,"/>
+<approved hash="113,1,172.483,335.149,JP3,,,,,"/>
+<approved hash="113,1,187.96,352.154,SJ1,,,,,"/>
+<approved hash="113,1,226.06,459.545,SV2,,,,,"/>
+<approved hash="113,1,-17.78,256.345,SV1,,,,,"/>
+<approved hash="113,1,215.663,385.949,JP5,,,,,"/>
+<approved hash="113,1,12.9371,336.681,JP2,,,,,"/>
+<approved hash="113,1,-0.237066,279.269,JP1,,,,,"/>
 </errors>
 </schematic>
 </drawing>
